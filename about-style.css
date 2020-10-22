@@ -1,0 +1,30 @@
+
+body {
+    font-family: Fira Sans,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.81;
+    color: #555;
+    background-color: #fff;
+}
+
+
+.container {
+    margin-right: auto;
+    margin-left: 17rem;
+    padding-top: 20px;
+    position: center;
+}
+
+body {
+    font-family: Fira Sans,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.81;
+    color: #555;
+    background-color: #fff;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

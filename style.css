@@ -1,0 +1,74 @@
+.card-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    color: rebeccapurple;
+    text-align: center;
+    
+}
+
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    color: aquamarine;
+    text-align: center;
+}
+
+
+.opacity {
+    background-color: rgba(0,0,0,.2);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+
+}
+
+.text-center{
+    text-align: right ;
+}
+
+.card-title1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+.card-title2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+.card-title3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.card-text1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-style: italic;
+    text-align: center;
+}
+
+.card-text2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-style: italic;
+    text-align: center;
+}
+
+.card-text3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-style: italic;
+    text-align: center;
+}
